@@ -26,4 +26,13 @@
     background-image: linear-gradient(#383d58 #4EBFE9);
     color: white;
     display: flex;
+    justify-content: center;
+    align-items: center;
+    padding: 24px 0;
+}
+.escola-titulo{
+    padding: 24px 0;
+}
+.escola-texto{
+    padding: 20px 0;
 }
